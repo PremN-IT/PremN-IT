@@ -11,6 +11,8 @@
 
 ### 👨‍💻 About Me
 
+<p align="left">
+
 - 🔭 Currently building **scalable AWS infrastructure using Terraform modules with GitHub Actions CI/CD pipelines**
 - 🌱 Exploring **DevSecOps, Kubernetes (K8s), and advanced cloud automation**
 - ⚡ Focused on **automation, cost optimization, and high availability architectures**
@@ -29,9 +31,11 @@
 
 ### 📌 Key Highlights
 
+<p align="left">
+
 - ✅ Designed **multi-region AWS infrastructure** using reusable Terraform modules  
 - ✅ Implemented **CI/CD pipelines via GitHub Actions**, reducing deployment time by ~40%  
-- ✅ Experience with **3-tier architectures, VPC design, NAT Gateway, and Transit Gateway**  
+- ✅ Architected and Deployed 3-tier LAMP Stack architecture in AWS Cloud Services.
 - ✅ Hands-on with **containerization (Docker) and orchestration (Kubernetes)**  
 - ✅ Strong understanding of **cloud security, monitoring, and cost optimization**
 
