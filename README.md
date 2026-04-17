@@ -5,7 +5,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=PremN-IT&label=Profile%20views&color=0e75b6&style=flat" alt="PremN-IT" /> 
 </p>
-<img src="https://github.com/PremN-IT/PremN-IT/blob/main/Passport%20size%20photo.jpg" width="150" style="border-radius:50%;" />
+<div align="center"> <img src="https://github.com/PremN-IT/PremN-IT/blob/main/Passport%20size%20photo.jpg" width="150" style="border-radius:50%;" />
 ---
 
 ### 👨‍💻 About Me
