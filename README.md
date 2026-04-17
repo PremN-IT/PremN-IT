@@ -1,29 +1,79 @@
 # Hi 👋, I'm Premkumar Nagaiah
 
-### Passionate AWS Cloud and DevOps Engineer
+## 🚀 Cloud & DevOps Engineer | AWS | Terraform | CI/CD
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PremN-IT&label=Profile views&color=0e75b6&style=flat" alt="PremN-IT" /> </p>
-<div align="center"> <img src="https://github.com/PremN-IT/PremN-IT/blob/main/Passport%20size%20photo.jpg"> </div>div>
-- 🔭 I'm currently working on **AWS Cloud Infra provisioning using Terraform Modules through GitHub Actions Pipeline**
-
-- 🌱 I'm currently learning **DevSecOps Projects and K8s Projects.**
-
-- 👯 I'm looking to collaborate on **Open Source Projects**
-
-- 📫 How to reach me **nkprembe@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/PremN-IT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="PremN-IT" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/premkumar-nagaiah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/premkumar-nagaiah/" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@nkprembe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@nkprembe" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=PremN-IT&label=Profile%20views&color=0e75b6&style=flat" alt="PremN-IT" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PremN-IT&show_icons=true&locale=en&layout=compact" alt="PremN-IT" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PremN-IT&show_icons=true&locale=en" alt="PremN-IT" /></p>
+- 🔭 Currently building **scalable AWS infrastructure using Terraform modules with GitHub Actions CI/CD pipelines**
+- 🌱 Exploring **DevSecOps, Kubernetes (K8s), and advanced cloud automation**
+- ⚡ Focused on **automation, cost optimization, and high availability architectures**
+- 👯 Open to collaborating on **Cloud & DevOps Open Source Projects**
+- 📫 Reach me at **nkprembe@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PremN-IT&" alt="PremN-IT" /></p>
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://github.com/PremN-IT" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+<a href="https://www.linkedin.com/in/premkumar-nagaiah/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://medium.com/@nkprembe" target="_blank">
+  <img src="https://skillicons.dev/icons?i=medium" height="40"/>
+</a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,bash,docker,git,kubernetes,linux,mysql,nginx,python" />
+</p>
+
+---
+
+### 📌 Key Highlights
+
+- ✅ Designed **multi-region AWS infrastructure** using reusable Terraform modules  
+- ✅ Implemented **CI/CD pipelines via GitHub Actions**, reducing deployment time by ~40%  
+- ✅ Experience with **3-tier architectures, VPC design, NAT Gateway, and Transit Gateway**  
+- ✅ Hands-on with **containerization (Docker) and orchestration (Kubernetes)**  
+- ✅ Strong understanding of **cloud security, monitoring, and cost optimization**
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PremN-IT&show_icons=true&locale=en&layout=compact" alt="PremN-IT" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PremN-IT&show_icons=true&locale=en" alt="PremN-IT" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PremN-IT" alt="PremN-IT" />
+</p>
+
+---
+
+### 🚀 Current Focus
+
+- 🔐 DevSecOps implementation (SAST, DAST, secrets scanning)
+- ☸️ Kubernetes deployments & Helm charts
+- 🤖 Infrastructure automation & optimization
+
+---
+
+⭐️ *Always learning, building, and improving in Cloud & DevOps space*
