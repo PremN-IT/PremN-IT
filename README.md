@@ -2,10 +2,11 @@
 
 ## 🚀 Cloud & DevOps Engineer | AWS | Terraform | CI/CD
 
+<div align="center"> <img src="https://github.com/PremN-IT/PremN-IT/blob/main/Passport%20size%20photo.jpg" width="150" style="border-radius:50%;" />
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=PremN-IT&label=Profile%20views&color=0e75b6&style=flat" alt="PremN-IT" /> 
 </p>
-<div align="center"> <img src="https://github.com/PremN-IT/PremN-IT/blob/main/Passport%20size%20photo.jpg" width="150" style="border-radius:50%;" />
+
 ---
 
 ### 👨‍💻 About Me
@@ -15,22 +16,6 @@
 - ⚡ Focused on **automation, cost optimization, and high availability architectures**
 - 👯 Open to collaborating on **Cloud & DevOps Open Source Projects**
 - 📫 Reach me at **nkprembe@gmail.com**
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-<a href="https://github.com/PremN-IT" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-<a href="https://www.linkedin.com/in/premkumar-nagaiah/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="https://medium.com/@nkprembe" target="_blank">
-  <img src="https://skillicons.dev/icons?i=medium" height="40"/>
-</a>
-</p>
 
 ---
 
@@ -73,6 +58,22 @@
 - 🔐 DevSecOps implementation (SAST, DAST, secrets scanning)
 - ☸️ Kubernetes deployments & Helm charts
 - 🤖 Infrastructure automation & optimization
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://github.com/PremN-IT" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+<a href="https://www.linkedin.com/in/premkumar-nagaiah/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://medium.com/@nkprembe" target="_blank">
+  <img src="https://skillicons.dev/icons?i=medium" height="40"/>
+</a>
+</p>
 
 ---
 
